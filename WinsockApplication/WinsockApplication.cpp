@@ -96,6 +96,8 @@ int main(int argc, char* argv[])
             std::cout << "Client disconnected" << std::endl;
             break; 
         }
+
+        std::cout << "CLIENT> " << std::string(buff, 0, bytesReceived) << std::endl; 
         // echo message back to client 
         send(clientSocket, buff, bytesReceived + 1, 0); // prevent to get the zero buffer >> +1
         
