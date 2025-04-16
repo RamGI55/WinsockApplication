@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WinsockApplication", "WinsockApplication\WinsockApplication.vcxproj", "{2BB841B3-3ACD-473B-9F75-7886BD86A339}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WinsockClient", "WinsockClient\WinsockClient.vcxproj", "{3D4308CF-B339-4275-B931-CCEC8DCB46BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BB841B3-3ACD-473B-9F75-7886BD86A339}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2BB841B3-3ACD-473B-9F75-7886BD86A339}.Debug|Win32.Build.0 = Debug|Win32
+		{2BB841B3-3ACD-473B-9F75-7886BD86A339}.Debug|x64.ActiveCfg = Debug|x64
+		{2BB841B3-3ACD-473B-9F75-7886BD86A339}.Debug|x64.Build.0 = Debug|x64
+		{2BB841B3-3ACD-473B-9F75-7886BD86A339}.Release|Win32.ActiveCfg = Release|Win32
+		{2BB841B3-3ACD-473B-9F75-7886BD86A339}.Release|Win32.Build.0 = Release|Win32
+		{2BB841B3-3ACD-473B-9F75-7886BD86A339}.Release|x64.ActiveCfg = Release|x64
+		{2BB841B3-3ACD-473B-9F75-7886BD86A339}.Release|x64.Build.0 = Release|x64
+		{3D4308CF-B339-4275-B931-CCEC8DCB46BE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3D4308CF-B339-4275-B931-CCEC8DCB46BE}.Debug|Win32.Build.0 = Debug|Win32
+		{3D4308CF-B339-4275-B931-CCEC8DCB46BE}.Debug|x64.ActiveCfg = Debug|x64
+		{3D4308CF-B339-4275-B931-CCEC8DCB46BE}.Debug|x64.Build.0 = Debug|x64
+		{3D4308CF-B339-4275-B931-CCEC8DCB46BE}.Release|Win32.ActiveCfg = Release|Win32
+		{3D4308CF-B339-4275-B931-CCEC8DCB46BE}.Release|Win32.Build.0 = Release|Win32
+		{3D4308CF-B339-4275-B931-CCEC8DCB46BE}.Release|x64.ActiveCfg = Release|x64
+		{3D4308CF-B339-4275-B931-CCEC8DCB46BE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal
